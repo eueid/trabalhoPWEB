@@ -26,6 +26,7 @@ div.menu{
     color: white;
 }
 
+<<<<<<< HEAD
 div.conteudo{
     position: absolute;
     left: 100px;
@@ -34,6 +35,8 @@ div.conteudo{
     color: black;
 }
 
+=======
+>>>>>>> 167ce7554d810f86394d110770ef3b025a855fcf
 
 a:link{
     font-size: 30px;

@@ -9,7 +9,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<<<<<<< HEAD
         <title>JSP Page</title>
+=======
+        <title>Login</title>
+>>>>>>> 167ce7554d810f86394d110770ef3b025a855fcf
     </head>
     <body>
         <h1>Tela de Login</h1>
@@ -37,6 +41,10 @@
                             <td colspan="2">
                     <center>
                         <input type="submit" value="Entrar" />
+<<<<<<< HEAD
+=======
+                        <a href="register.jsp">Faça seu cadastro</a>
+>>>>>>> 167ce7554d810f86394d110770ef3b025a855fcf
                     </center>
                     </td>
                     </tr>

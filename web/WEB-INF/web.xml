@@ -2,6 +2,7 @@
 <web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
     <servlet>
         <servlet-name>Login</servlet-name>
+<<<<<<< HEAD
         <servlet-class>servlet.Login</servlet-class>
     </servlet>
     <servlet>
@@ -15,6 +16,13 @@
     <servlet>
         <servlet-name>AtualizaUsuario</servlet-name>
         <servlet-class>servlet.AtualizaUsuario</servlet-class>
+=======
+        <servlet-class>servlets.Login</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>CadastroUsuario</servlet-name>
+        <servlet-class>servlets.CadastroUsuario</servlet-class>
+>>>>>>> 167ce7554d810f86394d110770ef3b025a855fcf
     </servlet>
     <servlet-mapping>
         <servlet-name>Login</servlet-name>
@@ -22,6 +30,7 @@
     </servlet-mapping>
     <servlet-mapping>
         <servlet-name>CadastroUsuario</servlet-name>
+<<<<<<< HEAD
         <url-pattern>/cadastroUsuario</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
@@ -31,6 +40,9 @@
     <servlet-mapping>
         <servlet-name>AtualizaUsuario</servlet-name>
         <url-pattern>/atualizaUsuario</url-pattern>
+=======
+        <url-pattern>/CadastroUsuario</url-pattern>
+>>>>>>> 167ce7554d810f86394d110770ef3b025a855fcf
     </servlet-mapping>
     <session-config>
         <session-timeout>

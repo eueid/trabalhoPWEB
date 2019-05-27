@@ -10,6 +10,11 @@ package entidades;
  * @author fatec
  */
 public class Usuario {
+<<<<<<< HEAD
+=======
+    //Definição de um usuario, note que esses atributos são uma copia do banco.
+    
+>>>>>>> 167ce7554d810f86394d110770ef3b025a855fcf
     private int cod;
     private String nome;
     private String login;

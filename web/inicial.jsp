@@ -21,8 +21,18 @@
         <div class="menu" >
             <a href="inicial.jsp"> Home </a> |
             <a href="novoUsuario.jsp"> Novo Usuário </a> |
+<<<<<<< HEAD
             <a href="consultarUsuario"> Consultar Usuário </a> |
             <a href="index.jsp"> Sair </a>
+=======
+            <a href="index.jsp"> Clientes </a> |
+             <a href="index.jsp"> Fornecedores </a> |
+              <a href="index.jsp"> Produtos </a> |
+               <a href="index.jsp"> Compra </a> |
+                <a href="index.jsp"> Venda </a> |
+                <a href="index.jsp"> Gerar relatório</a> |
+             <a href="index.jsp"> Sair </a> |
+>>>>>>> 167ce7554d810f86394d110770ef3b025a855fcf
         </div>
         
     </body>
